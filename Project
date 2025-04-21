@@ -4,7 +4,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 
-const API_KEY = "your_api_key_here"; // Replace with your OMDB API key
+const API_KEY = "7186cccf"; 
 const API_URL = "https://www.omdbapi.com/";
 
 export default function IMDbClone() {
